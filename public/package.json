@@ -2,7 +2,7 @@
   "name": "zoom-clone-template",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "src/app.js",
   "dependencies": {
     "http-server": "0.12.3"
   },
